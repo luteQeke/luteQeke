@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://github.com/reggi/reggi/raw/main/profile.svg" alt="About Tea Reggi" />
 
 <!--
 **luteQeke/luteQeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
